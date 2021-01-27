@@ -13,7 +13,7 @@ ${password}  mT8LNFhXivN7vh^Ly
 *** Test Cases ***
 
 User is sucessfully logs in
-    [Tags]  sss
+    [Tags]  testLog
     Given User is on the Login page
     When User enters email address
     And User enters password
